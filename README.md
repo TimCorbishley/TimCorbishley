@@ -4,7 +4,9 @@
 ##### for <ins>Part 2, Practical Task 2 of Assignment 5.</ins>
 
 
+### And a picture of a whale fluke:
 
+![model](https://github.com/TimCorbishley/TimCorbishley/blob/main/whale%20fluke.jpg)
 
 
 
